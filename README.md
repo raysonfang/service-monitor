@@ -22,4 +22,8 @@ python
 
 ### 相关三方依赖
 
+requests 网络请求
+apscheduler 定时任务
+
+
 ### 其他
